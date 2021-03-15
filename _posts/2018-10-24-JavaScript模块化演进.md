@@ -1,7 +1,7 @@
 ---
 title: JavaScript模块化演进
 tags: JavaScript 模块化
-key: 模块化
+key: JavaScript
 ---
 
 # JavaScript模块化演进
